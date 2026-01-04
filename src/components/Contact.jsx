@@ -20,7 +20,7 @@ export default function Contact() {
               className="instagram-icon"
             />
             <a
-              href="https://instagram.com/chill.coffee"
+              href="https://www.instagram.com/chillcoffee_rus/"
               target="_blank"
               rel="noopener noreferrer"
             >
