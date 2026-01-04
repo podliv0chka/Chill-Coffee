@@ -362,8 +362,7 @@ body {
   }
 
   .nav {
-    flex-direction: column;
-    gap: 10px;
+    gap: 12px;
   }
 
   .hero-overlay h2 {
