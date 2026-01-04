@@ -338,6 +338,24 @@ body {
 
 /* ===== АДАПТИВНОСТЬ ===== */
 @media (max-width: 768px) {
+  .header {
+    padding: 10px 16px;
+  }
+
+  .logo h1 {
+    font-size: 20px;
+    margin-bottom: 2px;
+  }
+
+  .logo .tagline {
+    font-size: 10px;
+  }
+
+  .nav a {
+    font-size: 14px;
+    padding-bottom: 2px;
+  }
+
   .header-content {
     flex-direction: column;
     gap: 20px;
